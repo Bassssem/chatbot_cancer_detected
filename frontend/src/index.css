@@ -5,7 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
+  background: url("https://i.pinimg.com/564x/a4/57/02/a457023a1702efb0655b9bba3f7a4edc.jpg") no-repeat;
+  background-size: cover; /* Cover the entire container */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  padding: 20px; /* Add some padding */}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
